@@ -5,5 +5,4 @@ tempfile
 os
 re
 json
-pandas
 txtai==6.3.0
