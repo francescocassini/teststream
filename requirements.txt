@@ -1,6 +1,2 @@
-time
-tempfile
-os
-re
 json
 txtai==6.3.0
